@@ -5,13 +5,13 @@ import java.util.concurrent.Executors;
 
 /**
  * @author Administrator
- * @åˆ›å»ºæ—¶é—´ 2016-3-7 ä¸‹åˆ7:07:54
- * @æè¿°
+ * @´´½¨Ê±¼ä 2016-3-7 ÏÂÎç7:07:54
+ * @ÃèÊö
  * 
- * @ç‰ˆæœ¬	    $Rev$
- * @æ›´æ–°è€…   $Author$
- * @æ›´æ–°æ—¶é—´ $Date$
- * @æ›´æ–°æè¿°	TODO
+ * @°æ±¾	    $Rev$
+ * @¸üĞÂÕß   $Author$
+ * @¸üĞÂÊ±¼ä $Date$
+ * @¸üĞÂÃèÊö	TODO
  */
 public class ThreadPoolDemo {
 	private static MyThread	task;
@@ -36,5 +36,10 @@ class MyThread implements Runnable {
 			e.printStackTrace();
 		}
 		System.out.println("MyThread-task==="+Thread.currentThread());
+	}
+
+	//¡°ÉñÁú¼Ü¡±
+	class 
+	{
 	}
 }
