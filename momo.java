@@ -41,5 +41,6 @@ class MyThread implements Runnable {
 	//¡°ÉñÁú¼Ü¡±
 	class 
 	{
+		system.out.println("");
 	}
 }
