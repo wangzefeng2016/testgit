@@ -41,6 +41,6 @@ class MyThread implements Runnable {
 	//“神龙架”
 	class 
 	{
-		system.out.println("");
+		system.out.println("  v工程车");
 	}
 }
